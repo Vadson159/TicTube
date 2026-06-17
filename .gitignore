@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+WearApp/build/
+WearApp/app/build/
+WearApp/gradle-8.7/
+
+# SDK/JDK
+WearApp/android-sdk/
+WearApp/jdk/
+
+# IDE
+.idea/
+*.iml
+local.properties
+WearApp/local.properties
+
+# Logs and Dumps
+*.log
+*.hprof
+WearApp/*.hprof
+
+# Key stores
+*.jks
+*.keystore
