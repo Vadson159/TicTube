@@ -6,8 +6,9 @@ Watch YouTube videos directly from your smartwatch! ⌚️🎥
 
 ### Demo
 
-<video src="https://i.imgur.com/cXJqlV9.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
-*(Or [click here to view the demo video](https://i.imgur.com/cXJqlV9.mp4))*
+[![Demo Video](https://i.imgur.com/cXJqlV9.gif)](https://i.imgur.com/cXJqlV9.mp4)
+
+*(Click the image to view the full video)*
 
 ## About
 
