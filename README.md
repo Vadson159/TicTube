@@ -6,9 +6,8 @@ Watch YouTube videos directly from your smartwatch! ⌚️🎥
 
 ### Demo
 
-https://github.com/Vadson159/TicTube/raw/main/assets/demo.mp4
+![TicTube Demo](assets/demo.gif)
 
-> **Note:** If the video player above doesn't load, you can **[📹 Click here to watch the Demo Video](https://github.com/Vadson159/TicTube/raw/main/assets/demo.mp4)**.
 
 ## About
 
